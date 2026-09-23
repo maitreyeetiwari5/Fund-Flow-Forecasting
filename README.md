@@ -1,8 +1,10 @@
 # Fund Flow Forecasting & Segment Benchmarking
 
-An extension of the top-level Finance Forecast & Variance Automation project — same forecast/calibration/commentary architecture, retargeted from budget-vs-actual data to real US mutual fund industry net-flow data, plus a new segment-benchmarking layer.
+An extension of the top-level Finance Forecast & Variance Automation project - same forecast/calibration/commentary architecture, retargeted from budget-vs-actual data to real US mutual fund industry net-flow data, plus a new segment-benchmarking layer.
 
 **[Live dashboard](https://public.tableau.com/app/profile/maitreyee.tiwari4070/viz/FundFlowForecastingSegmentBenchmarking/FundFlowForecastingSegmentBenchmarking?publish=yes)** - flow vs. forecast trends by category, flagged-anomaly detail with drafted commentary, and the active-vs-passive segment benchmark, all on one dashboard.
+
+Built on top of [Finance Forecast & Variance Automation](https://github.com/maitreyeetiwari5/FPA-Variance-Automation) - same forecast/calibration/commentary architecture, retargeted here from synthetic budget data to real US mutual fund industry flow data.
 
 ## Problem
 
